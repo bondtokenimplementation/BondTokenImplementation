@@ -36,7 +36,12 @@ Before you begin, ensure you have the following installed on your system:
 
 ## Step-by-Step Instructions
 
-1. **Install Project Dependencies**
+1. **Clone Repository with git or download source files**
+     On the repository's main page, locate the green Code button near the top right (just above the list of files in the repository).
+      - If you've got git installed, you can clone the repository via `https://github.com/username/repo-name.git` for HTTPS or `git@github.com:username/repo-name.git` for SSH.
+      - Otherwise, simply click on Download.
+
+3. **Install Project Dependencies**
    - After cloning, you need to install the project's dependencies.
    - Run the following command:
 
@@ -44,7 +49,7 @@ Before you begin, ensure you have the following installed on your system:
 
    - This will install all necessary packages and dependencies defined in package.json.
 
-2. **Compile the Smart Contracts**
+4. **Compile the Smart Contracts**
    - Now, you can compile the Solidity smart contracts included in the project.
 
    - Run the following command:
@@ -53,7 +58,7 @@ Before you begin, ensure you have the following installed on your system:
 
    - This will compile the contracts and generate the necessary output in the artifacts/ folder.
 
-3. **Run Tests**
+5. **Run Tests**
    - You can run the pre-configured tests for the project using Hardhat. To do this, run the following command:
 
      `npx hardhat test` or `npm test`
