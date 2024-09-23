@@ -35,7 +35,7 @@ describe("Bond Token Contract", function () {
         const BondContract = await ethers.getContractFactory("Bond");
         Bond = await BondContract.deploy();
 
-        // Set mock contracts in Bond contract
+        // Set other contracts in Bond contract
         await Bond.setKycContract(KYC.target);
         await Bond.setCSRContract(CSR.target);
         await Bond.setDocumentsContract(Documents.target);
