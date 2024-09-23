@@ -1,0 +1,26 @@
+{
+  "name": "bondtokenimplementation",
+  "version": "1.0.0",
+  "main": "hardhat.config.ts",
+  "scripts": {
+    "test": "npx hardhat test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-chai-matchers": "^2.0.7",
+    "@nomicfoundation/hardhat-ethers": "^3.0.8",
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@types/chai": "^4.3.19",
+    "chai": "^4.5.0",
+    "ethers": "^6.13.2",
+    "hardhat": "^2.22.10",
+    "mocha": "^10.7.3"
+  },
+  "dependencies": {
+    "@nomicfoundation/hardhat-network-helpers": "^1.0.11",
+    "@openzeppelin/contracts": "^5.0.2"
+  }
+}
