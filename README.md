@@ -24,7 +24,8 @@ Before you begin, ensure you have the following installed on your system:
    - **All Operating Systems**:
      - After installation, verify that Node.js and npm are installed by typing the following commands in your terminal (Mac) or PowerShell (Windows):
       `node -v`
-      `npm -v` 
+      `npm -v`
+     - After a successful installation, this should display the installed versions of node and npm!
 
 
 2. **Git** (optional, but useful for version control):
