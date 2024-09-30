@@ -40,8 +40,7 @@ Before you begin, ensure you have the following installed on your system:
 1. **Clone Repository with git or download source files**
      On the repository's main page, locate the green Code button near the top right (just above the list of files in the repository).
       - If you've got git installed, you can clone the repository in your terminal (Mac) or PowerShell (Windows) via:
-         - `git clone https://github.com/username/repo-name.git` for HTTPS
-         - `git clone git@github.com:username/repo-name.git` for SSH
+         - `git clone https://github.com/username/repo-name.git`
       - Otherwise, simply click on `Download ZIP`.
 
 3. **Install Project Dependencies**
