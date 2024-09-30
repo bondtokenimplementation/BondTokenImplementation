@@ -75,7 +75,7 @@ To deploy the smart contracts to a local blockchain, follow these steps in the t
     - The Hardhat node simulates a local Ethereum network that you can use for development and testing.
     - Run the following command to start the Hardhat node:
   
-      `npx hardhat`
+      `npx hardhat node`
     
     - This will start a local blockchain and provide a list of test accounts with private keys that you can use for deployment and testing.
 
