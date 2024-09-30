@@ -22,7 +22,7 @@ Before you begin, ensure you have the following installed on your system:
      - Download and install Node.js from the official [Node.js website](https://nodejs.org/).
 
    - **All Operating Systems**:
-     - After installation, verify that Node.js and npm are installed by running:
+     - After installation, verify that Node.js and npm are installed by typing the following commands in your terminal (Mac) or PowerShell (Windows):
       `node -v`
       `npm -v` 
 
