@@ -44,6 +44,7 @@ Before you begin, ensure you have the following installed on your system:
 
 3. **Install Project Dependencies**
    - After cloning, you need to install the project's dependencies.
+   - Open your terminal (Mac) or PowerShell (Windows) in your project's directory.
    - Run the following command:
 
      `npm install`
