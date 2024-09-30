@@ -1,6 +1,6 @@
 # Bond Token Implementation
 
-Welcome to the Hardhat Project! This guide will walk you through the steps to set up, install dependencies, compile the project, run tests. Additionally, you'll learn how to run a local Hardhat node and deploy your smart contracts.
+This guide will walk you through the steps to set up, install dependencies, compile the project and run tests. Additionally, you'll learn how to run a local Hardhat node and deploy the project's smart contracts.
 
 ## Prerequisites
 
